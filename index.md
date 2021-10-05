@@ -40,7 +40,8 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/ing1.png">
+  <img src="./img/img2.png">
+  <img src="./img/img3.png">
 - 동영상
   [![](./img/그림.png)](https://youtu.be/S_pIRbLcpZQ?t=435
 ![image](https://user-images.githubusercontent.com/91927786/135951668-136a1901-775f-43a6-bb9b-aa4c662f536c.png)
