@@ -33,7 +33,9 @@
 - 이미지  
   <img src="./img/관련이미지.jpg">
 - 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+  [![](./img/그림.png)](https://youtu.be/S_pIRbLcpZQ?t=435
+![image](https://user-images.githubusercontent.com/91927786/135951668-136a1901-775f-43a6-bb9b-aa4c662f536c.png)
+)
 
 <br><br>
 
