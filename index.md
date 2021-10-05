@@ -31,11 +31,16 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/관련이미지.jpg">
+  <img src="./img/ing1.png">
 - 동영상
   [![](./img/그림.png)](https://youtu.be/S_pIRbLcpZQ?t=435
 ![image](https://user-images.githubusercontent.com/91927786/135951668-136a1901-775f-43a6-bb9b-aa4c662f536c.png)
 )
+[![](./img/그림.png)](https://youtu.be/hmPR4ppUWqs?t=223
+![image](https://user-images.githubusercontent.com/91927786/135951824-18b15fe6-6095-46cd-a064-4f56b06b3d1b.png)
+)
+
+
 
 <br><br>
 
