@@ -43,15 +43,8 @@
   <img src="./img/img2.png">
   <img src="./img/img3.png">
 - 동영상
-  [![](./img/img2.png)](https://youtu.be/S_pIRbLcpZQ?t=435)
-  
-![image](https://user-images.githubusercontent.com/91927786/135951668-136a1901-775f-43a6-bb9b-aa4c662f536c.png)
-)
-[![](./img/그림.png)](https://youtu.be/hmPR4ppUWqs?t=223)
-![image](https://user-images.githubusercontent.com/91927786/135951824-18b15fe6-6095-46cd-a064-4f56b06b3d1b.png)
-)
-
-
+  [![](./img/img3.png)](https://youtu.be/S_pIRbLcpZQ?t=435)![image])
+  [![](./img/img4.png)](https://youtu.be/hmPR4ppUWqs?t=223)![image])
 <br><br>
 
 # [대표 이미지]
