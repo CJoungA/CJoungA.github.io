@@ -39,12 +39,14 @@
 
 # [관련 이미지 & 동영상]
 
-- 이미지  
+- 이미지
+<br><br>
   <img src="./img/img2.png">
   <img src="./img/img3.png">
-- 동영상
-  [![](./img/img3.png)](https://youtu.be/S_pIRbLcpZQ?t=435)![image])
-  [![](./img/img4.png)](https://youtu.be/hmPR4ppUWqs?t=223)![image])
+- 동영상 
+<br><br>
+  [![](./img/img3.png)](https://youtu.be/S_pIRbLcpZQ?t=435)
+  [![](./img/img4.png)](https://youtu.be/hmPR4ppUWqs?t=223)
 <br><br>
 
 # [대표 이미지]
