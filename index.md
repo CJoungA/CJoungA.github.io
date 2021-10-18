@@ -150,8 +150,8 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|봇|<img src="./img/img7.png" width="500">|
-|2|총|<img src="./img/img8.png" width="500">|
+|1|봇|<img src="./img/img7.png" height="300">|
+|2|총|<img src="./img/img8.png" height="300">|
 |3|총알|<img src="./img/img9.png" height="300">|
 |4|배경|<img src="./img/img10.png" height="300">|
 |5|통계|<img src="./img/img11.png" height="300">|
