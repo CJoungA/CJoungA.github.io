@@ -150,11 +150,11 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|봇|<img src="./img/img1.png" width="500">|
-|2|총|<img src="./img/img1.png" width="500">|
-|3|총알|<img src="./img/img1.png" height="300">|
-|4|배경|<img src="./img/img1.png" height="300">|
-|5|통계|<img src="./img/img1.png" height="300">|
+|1|봇|<img src="./img/img7.png" width="500">|
+|2|총|<img src="./img/img8.png" width="500">|
+|3|총알|<img src="./img/img9.png" height="300">|
+|4|배경|<img src="./img/img10.png" height="300">|
+|5|통계|<img src="./img/img11.png" height="300">|
 
 ## 2. 파라미터(속성) 뽑아 보기
   
