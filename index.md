@@ -143,3 +143,12 @@
 ## 4. 기술
 
 -유니티엔진을 이용하여 PC용 게임으로 개발
+  
+# [게임시스템디자인] <a name='5'></a>
+  
+|연번|오브젝트 이름|오브젝트 이미지|
+|:----:|:----:|:----:|
+|1|축구장|<img src="./img/img1.png" width="500">|
+|2|골대|<img src="./img/img1.png" width="500">|
+|3|홍길동선수|<img src="./img/img1.png" height="300">|
+|4|골킵|<img src="./img/img1.png" height="300">|
