@@ -380,13 +380,12 @@
   
 # [스토리보드] <a name='9'></a>
   <br>
-  #<img src="./img/storyboard1.png">
-  #<img src="./img/storyboard2.png">
-  #<img src="./img/storyboard3.png">
-  #<img src="./img/storyboard4.png">
-  #<img src="./img/storyboard5.png">
-  #<img src="./img/storyboard1.png">
-  <br>
-  
+  [<img src="./img/storyboard1.png">]
+  <img src="./img/storyboard2.png">
+  <img src="./img/storyboard3.png">
+  <img src="./img/storyboard4.png">
+  <img src="./img/storyboard5.png">
+  <img src="./img/storyboard1.png">
+
 # [개발작업 일정(6주)] <a name='10'></a>
   <img src="img/img14.png">
