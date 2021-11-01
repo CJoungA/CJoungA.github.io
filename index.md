@@ -382,16 +382,16 @@
   <br>
   <img src="./img/storyboard1.png">
   
-  <hr size ="0.1">
+  <hr>
   
   <img src="./img/storyboard2.png">
-  <hr size ="0.1">
+  <hr>
   <img src="./img/storyboard3.png">
-  <hr size ="0.1">
+  <hr>
   <img src="./img/storyboard4.png">
-  <hr size ="0.1">
+  <hr>
   <img src="./img/storyboard5.png">
-  <hr size ="5">
+  <hr>
   <img src="./img/storyboard1.png">
 
 # [개발작업 일정(6주)] <a name='10'></a>
